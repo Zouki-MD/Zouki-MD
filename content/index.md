@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+GSET Notes: A continually expanding base of reference
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Trial goes here
